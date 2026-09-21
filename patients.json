@@ -1,0 +1,8 @@
+{"P001": {"Name": "john", "City": "Karachi" , "Age": 30 , "Gender": "Male", "Height": 5.9, "Weight": 75, "Verdict": "Healthy"},
+"P002": {"Name": "Ali", "City": "Karachi" , "Age": 21 , "Gender": "Male", "Height": 6, "Weight": 70, " Verdict": "Healthy"}, 
+"P003": {"Name": "Bilal", "City": "Karachi" , "Age": 20 , "Gender": "Male", "Height": 5.5, "Weight": 50, "Verdict": "Healthy"}, 
+"P004": {"Name": "Ayesha", "City": "Karachi" , "Age": 32 , "Gender": "Female", "Height": 5.6,"Weight": 65, "Verdict": "Needs improvement"}, 
+"P005": {"Name": "Ahmed", "City": "Lahore" , "Age": 29 , "Gender": "Male", "Height": 5.8, "Weight": 72, "Verdict": "Healthy"}, 
+"P006": {"Name": "Fatima", "City": "Islamabad" , "Age": 27 , "Gender": "Female", "Height": 5.4, "Weight": 58, "Verdict": "Average"}, 
+"P007": {"Name": "Hassan", "City": "Karachi" , "Age": 31 , "Gender": "Male", "Height": 5.9, "Weight": 78, "Verdict": "Critical"}, 
+"P008": {"Name": "Zainab", "City": "Lahore" , "Age": 26 , "Gender": "Female", "Height": 5.5, "Weight": 62, "Verdict": "obese"}}  
