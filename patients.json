@@ -78,5 +78,25 @@
     "Weight": 62,
     "BMI": 22.06,
     "Verdict": "Underweight"
+  },
+  "P009": {
+    "Name": "Usman",
+    "City": "Karachi",
+    "Age": 24,
+    "Gender": "Male",
+    "Height": 5.8,
+    "Weight": 70.0,
+    "BMI": 2.08,
+    "Verdict": "Underweight"
+  },
+  "P010": {
+    "Name": "Ali",
+    "City": "Karachi",
+    "Age": 25,
+    "Gender": "Male",
+    "Height": 6.75,
+    "Weight": 70.0,
+    "BMI": 1.54,
+    "Verdict": "Underweight"
   }
 }
